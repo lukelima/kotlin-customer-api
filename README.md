@@ -4,4 +4,4 @@
 
 # Creating an HTTP API with Ktor
 
-This repository is the code corresponding to the hands-on lab [Creating HTTP APIs](https://ktor.io/docs/creating-http-apis.html). 
+Esse repositório corresponde ao projeto criado durante o tutorial [Creating HTTP APIs](https://ktor.io/docs/creating-http-apis.html). 
